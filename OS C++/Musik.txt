@@ -1,0 +1,26 @@
+clock.swf
+fa.bmp
+JPG-GRAFIK.jpg
+Kopie von Kopie von Neu Textdokument1.timg
+Kopie von Kopie von Neu Textdokument1.tmsc
+Kopie von Kopie von Neu Textdokument1.ttbl
+Kopie von Kopie von Neu Textdokument1.tvid
+Kopie von Neu Textdokument1.ttxt
+Kopie von Sample_Music.tmf
+Kopie von test.tbl
+MP3-AUDIO.mp3
+Neu Textdokument1.txt
+OK.bmp
+pacman.exe
+Pacman.txt
+PNG-GRAFIK.png
+Sample_Music.mp3
+TAB-TABELLE.tab
+test.tab
+TTBL-Tabelle.ttbl
+TXT-TEXT.txt
+Unbenannt.bmp
+Unbenannt.png
+WAV-AUDIO.wav
+WMA-AUDIO.wma
+ZIP-ORDNER.zip
